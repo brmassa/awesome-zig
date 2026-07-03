@@ -292,7 +292,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 - [mattnite/protobuf](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 - [nDimensional/zig-flatbuffers](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
-- [MASS4/MEGA4/ktx2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
+- [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 
 ### Date, Time and Timezones
